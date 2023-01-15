@@ -25,12 +25,21 @@
             "heading": "Our mission",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
           }
+        },
+        "9a232eac-42ce-4505-ac97-c3a3cfba443f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_2.png",
+            "image_width": 100,
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "9a232eac-42ce-4505-ac97-c3a3cfba443f"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -40,6 +49,7 @@
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
+        "show_policy": false,
         "margin_top": 48,
         "padding_top": 36,
         "padding_bottom": 36
